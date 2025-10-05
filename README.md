@@ -22,14 +22,7 @@ This app allows users to search for any city and view real-time weather data, wi
 
 ---
 
-## 📸 Screenshots
-_Add screenshots of your app here_  
-Example:  
-![App Screenshot](assets/screenshot1.png)
-
----
-
 ## ⚙️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather_app.git
+   https://github.com/MazenShabara/WeatherApp.git
